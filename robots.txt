@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://milagetrack.onrender.com/sitemap.xml
